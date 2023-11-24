@@ -1,0 +1,25 @@
+print("assalamualaikum!")
+print("saya sedang belajar python .")
+print("saya menggunakan keb online-Python.com .")
+print("selamat belajar python!")
+
+list = ['abcd',786, 2.23,'john', 70.2]
+tinylist = [123, 'john']
+print(list)
+print(list[0])
+print(list[1:3])
+print(list[2:])
+print(tinylist*2)
+print(list + tinylist)
+
+anak_metal = input("Rock and roll")
+
+nama = raw_input("Alif: ")
+umur = input ("1200: ")
+print("hello",nama, "umur kamu adalah",umur,"tahun.")
+
+print("kembar") #manampilkan nama
+print("i am learningn python basic") #
+nama = input("enter your name")
+print("hello",nama)
+

@@ -1,0 +1,9 @@
+print("BImbom") #mecetak dan menampilkan nama
+print("Bimbom"); print("i am learningn python basic") # mencetak nama dan mencetak "i am learningn python basic"
+nama = input("ente saha?? ") #membuat variabel dengan perintah input "kamu siapa??"
+print("hello",nama) #mencetak sapaan dan nama
+
+"""Program ini bertujuan untuk meminta pengguna memasukkan umur mereka dan mencetak umur tersebut ke display. dengan cara Menggunakan fungsi input() untuk meminta pengguna memasukkan umur mereka dan Nilai yang dimasukkan oleh pengguna akan disimpan dalam variabel 'umur'. Selanjutnya, program mencetak nilai 'umur' ke layar menggunakan fungsi print().
+Ini akan menampilkan umur yang dimasukkan oleh pengguna."""
+
+umur = input ( "Berapa umur anda?" ); print(umur)
